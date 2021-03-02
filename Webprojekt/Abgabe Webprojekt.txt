@@ -1,0 +1,4 @@
+Repositorie: https://github.com/xOroChi/WEB
+
+Seite 1: https://xorochi.github.io/WEB/Webprojekt/PC-Teile.html
+Seite 2: https://xorochi.github.io/WEB/Webprojekt/Konfigurator.html
